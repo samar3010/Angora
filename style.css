@@ -1,0 +1,60 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+.nav-item .nav-link{
+    color: #fff !important;
+}
+.nav-item .nav-link:hover{
+    color: #f25454  !important;
+}
+.carousel-inner{
+    position: relative;
+}
+.carousel-item h1{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+}
+.about{
+    text-align: center;
+}
+.about h2{
+    font-weight: bolder;
+    font-size: 37px;
+}
+.about p{
+    font-size: 25px;
+}
+.inner{
+    padding: 18px;
+    text-align: center;
+}
+.inner h5:hover{
+    color: #f25454;
+}
+.my-btn{
+    color: #fff;
+    background-color: #f25454;
+}
+.my-btn:hover{
+    color: #fff;
+    background-color: #f25454fb;
+}
+.my-slider img{
+border-radius: 100%;
+width: 9%;
+
+}
+.my-slider p,h6{
+text-align: center;
+
+}
+.footer{
+    background-color: rgb(29, 28, 28);
+    color: #fff;
+}
